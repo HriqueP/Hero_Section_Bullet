@@ -1,4 +1,4 @@
-# GreatFrontEnd - Blog Card
+# GreatFrontEnd - Hero Section w/ Bullets
 
 Welcome, this is a simples example for a Hero Section Component with Bullet options
 
